@@ -1,6 +1,0 @@
-{
-    "apkUrl": "http://download.pdxtech.biz:8181/pdx-android/1.0.3/PDX-wallet-1.0.3.apk",
-    "versionCode": 3,
-    "versionName": "1.0.3",
-    "isForceUpdate": false
-}
